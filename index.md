@@ -1,17 +1,18 @@
 ## Cybersecurity Automation Workshop
 
-You can use the [editor on GitHub](https://github.com/sparrell/caw/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Location
 
-### Markdown
+date/time
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+remote access
 
-```markdown
-Syntax highlighted code block
+registration
 
-# Header 1
-## Header 2
-### Header 3
+add text here
+
+# Heading 1
+## Heading 2
+### Heading 3
 
 - Bulleted
 - List
@@ -22,14 +23,15 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sparrell/caw/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
+
+Join the mailing list - add it here
+
+Need help with contributing to this page - click on the github repo
+link in the banner at the top
+
+Want to know more? Contact info can be found in the  github repo.
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
