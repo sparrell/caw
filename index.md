@@ -1,36 +1,38 @@
-## Cybersecurity Automation Workshop
+# Cybersecurity Automation Workshop
 
-Location
+The next Cybersecurity Automation Workshop
+will be held 2-June-2022 at the
+[AT&T Forum](https://policyforum.att.com/att-forum/)
+in Washington, DC.
 
-date/time
+## Agenda
+Schedule is tentatively 9AM-5PM 2-June-2022;
+details are still being worked.
 
-remote access
+Feedback from the last workshop recommended spreading the
+keynotes throughout the day
+(last time they were all in the kickoff session).
+Although a detailed agenda still needs to be created,
+the intent will be spread out the keynotes as recommended.
 
-registration
+## Venue
+The [AT&T Forum](https://policyforum.att.com/att-forum/)
+is located at 601 New Jersey Avenue NW, Washington, DC 20001.
 
-add text here
+## Remote Access
+Intent is to allow virtual participation.
+It may not apply to all sessions or all interoperation demonstrations.
 
-# Heading 1
-## Heading 2
-### Heading 3
+## Registration
+Participation will require registration.
+Details forthcoming.
 
-- Bulleted
-- List
+## Participating Organizations
 
-1. Numbered
-2. List
+## Objective, Goals, Focus
+Still early in planning stages
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-```markdown
-what does this look like
-```
-
-
-
-### Support or Contact
+## Support or Contact
 
 Join the mailing list - add it here
 
