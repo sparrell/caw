@@ -73,7 +73,7 @@ unacceptable behavior may be
 reported by contacting the
 Cybersecurity Automation Workshop organizer at
 duncan at sfractal.com.
-Allcomplaints will be reviewed and investigated and
+All complaints will be reviewed and investigated and
 will result in a response that
 is deemed necessary and appropriate to the circumstances.
 The project team is
