@@ -144,7 +144,7 @@ for the complete code of conduct.
 
 ## Demo Use Cases
 In the ideal world,
-the workshop would demonstrate live
+the workshop would perform a live demonstrate 
 one complicated use case
 that evolved from quiet to under attack
 touching many different child use cases
