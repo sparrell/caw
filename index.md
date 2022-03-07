@@ -20,16 +20,37 @@ keynotes throughout the day
 Although a detailed agenda still needs to be created,
 the intent will be spread out the keynotes as recommended.
 
+See [Agenda](./Agenda.md) for more details.
+
 ## Venue
 The [AT&T Forum](https://policyforum.att.com/att-forum/)
 is located at 601 New Jersey Avenue NW, Washington, DC 20001.
+
+Thank you to AT&T for hosting the event for us.
 
 ## Remote Access
 Intent is to allow virtual participation.
 It may not apply to all sessions or all interoperation demonstrations.
 
+Details need to be worked out yet.
+
+## Keynotes
+keynote speakers have been lined up.
+Eventually add them here or make a subtending page.
+
 ## Eligibility
 Open to all.
+Free.
+Registration will be required.
+
+Should we reach limits (if any)
+on the number of physical attendees,
+some sort of rules will need to be worked out,
+well in advance,
+on who is eligible to attend.
+Rules would probably
+be based on sweat equity, distance traveled,
+and a quota (ie to spread attendance across the orgs involved).
 
 
 ## Registration
@@ -44,19 +65,31 @@ for the common good).
 
 But the individuals will be (potentially?)
 bringing together the work of the following:
-- PACE
+- [PACE](https://github.com/opencybersecurityalliance/PACE)
 - [OpenC2](openc2.org)
--
+- TAC
+- CACAO
+- SBOM
+- LF SPDX
+- OWASP CycloneDX
+- CASF
+
+the above committed. add the others as they commit or now?
+- CTI/STIX/TAXII
+- LF Daggerboard
+- OCA Ontology
+- OCA stixshifter
+- OCA Kestrel
+- IETF MUD
+- ...
 
 To learn more how the work of these organizations
 will be specifically used in this workshop,
-see the following subtending pages:
-- PACE
-- OpenC2
+see
+[OrgMashup](./OrgMashup/README.md)
 
 ## Objective, Goals, Focus
 Still early in planning stages so this needs work
-
 
 Attendees should walk away feeling
 that they have had a positive engagement
@@ -64,6 +97,28 @@ with their peers
 and have more confidence
 cybersecurity automation
 is in a better state.
+
+Objectives include: blah blah
+
+Goals are: blah blah
+
+Focus: demonstrating working interoperating
+systems contributing to cybersecurity automation.
+
+mashup of meetups
+
+hackathon
+
+## Sweat Equity
+To learn more about what participants are bringing
+to the workshop, see
+[Sweat Equity](./SweatEquity/README.md)
+
+## Technical Details for Interoperation
+see
+[TechDetails](./TechDetails/README.md)
+for more details on decisions being made on how to get
+stuff to work together.
 
 
 ## Governance
@@ -87,9 +142,14 @@ or sexual identity and orientation.
 See [Code of Conduct](./CODE_OF_CONDUCT.md)
 for the complete code of conduct.
 
+## Results
+Eventually results will be put
+[here](./Results/README.md)
+
 ## Support or Contact
 
-Join the mailing list - add it here
+Join the mailing list:
+https://groups.google.com/g/cybersecurity-automation-workshop-coordination/about
 
 Need help with contributing to this page - click on the github repo
 link in the banner at the top
