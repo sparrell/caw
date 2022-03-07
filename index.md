@@ -146,6 +146,12 @@ for the complete code of conduct.
 Eventually results will be put
 [here](./Results/README.md)
 
+## Previous Events
+Results from the two previous workshops,
+and other related events,
+can be found at
+[Previous Workshops](./PrevResults)
+
 ## Support or Contact
 
 Join the mailing list:
