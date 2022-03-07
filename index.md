@@ -142,6 +142,28 @@ or sexual identity and orientation.
 See [Code of Conduct](./CODE_OF_CONDUCT.md)
 for the complete code of conduct.
 
+## Demo Use Cases
+In the ideal world,
+the workshop would demonstrate live
+one complicated use case
+that evolved from quiet to under attack
+touching many different child use cases
+involving all the orgs and all the participants.
+
+Being the real world, and early in our
+cybsersecurity automation
+journey,
+the workshop will involve a series of
+demonstrations - some live, some tabletop -
+touching various interworking scenarios.
+And they probalby won't all work,
+so a certain amount of hackathon will also
+be taking place to add missing lycans or
+fixing bugs so that interworking can occur.
+
+More details on exactly is planned is at
+[DemoUseCases](./DemoUseCases/README.md)
+
 ## Results
 Eventually results will be put
 [here](./Results/README.md)
